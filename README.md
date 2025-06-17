@@ -1,14 +1,14 @@
 <!-- TITLE -->
 <h1 align="center">Hi there, I'm Rachit Rajput 👋</h1>
-<h3 align="center">🚀 Turning ideas into reality through code | Full-Stack Developer | Tech Explorer</h3>
+<h3 align="center">🚀 Turning ideas into reality through code | Full-Stack Developer</h3>
 
 ---
 
 ## 🧑‍💻 About Me
 
-🎓 I'm a 3rd-year B.Tech student passionate about solving real-world problems with technology.  
-💻 I build modern full-stack web applications using **MERN Stack** and **Next.js**.  
-🧠 Currently diving deeper into **TypeScript**, **SaaS Architecture**, and **Cloud Services**.  
+🎓 I'm a final-year B.Tech student passionate about solving real-world problems with technology.  
+💻 I am currently working on building modern full-stack web applications using **MERN Stack** and **Next.js**.  
+🧠 Currently diving deeper into **TypeScript**. 
 🎯 On a mission to become a top-tier Software Engineer.
 
 ---

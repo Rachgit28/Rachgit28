@@ -65,7 +65,7 @@
 ## 🌐 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rachit-rajput-727004228/)  
-[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&logo=leetcode)](https://leetcode.com/yourprofile/)  
+[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&logo=leetcode)](https://leetcode.com/u/28rachitrajput/)  
 
 ---
 

@@ -73,6 +73,3 @@
   <i>"Striving for clean code, scalable apps, and lifelong learning."</i>
 </p>
 
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Rachgit28.Rachgit28" alt="Visitor Badge" />
-</p>

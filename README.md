@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Rachit Rajput
 
-🎓 3rd-year B.Tech student | 💻 Aspiring Software Engineer  
+🎓 Final-year B.Tech student | 💻 Aspiring Software Engineer  
 🚀 Building full-stack web apps with MERN & Next.js  
-🎸 Guitarist | 🎮 Gamer | 🏏 Cricket Lover
+
 
 ---
 

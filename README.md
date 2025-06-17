@@ -8,29 +8,48 @@
 
 🎓 I'm a final-year B.Tech student passionate about solving real-world problems with technology.  
 💻 I am currently working on building modern full-stack web applications using **MERN Stack** and **Next.js**.  
-🧠 Currently diving deeper into **TypeScript**. 
 🎯 On a mission to become a top-tier Software Engineer.
 
 ---
 
 ## 🛠️ Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat&logo=tailwind-css)
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
+### 🚀 Languages & Frameworks  
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
+</p>
+
+### 🛢️ Databases & Tools  
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+</p>
+
+### 🎨 Styling & UI  
+<p>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shadcn/UI-black?style=flat&logo=vercel&logoColor=white" />
+</p>
+
+### 🧰 Dev Tools  
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+</p>
 
 ---
 
 ## 🚀 My Projects
 
-- 🔗 [**SaaS LMS App**](https://github.com/Rachgit28/saas-app) – Learning Management System with **Next.js**, **Clerk Auth**, **Stripe Billing**
-- 📝 **Blog Web App (MERN + Gemini AI)** – Dynamic content generation & image optimization (coming soon)
-- 📌 **More projects** on the way — stay tuned!
+- 🔗 [**SaaS LMS App**](https://github.com/Rachgit28/saas-app) – Learning Management System using **Next.js**, **Clerk Auth**, **Stripe Billing**
+- 📝 [**Quick Blog**](https://github.com/Rachgit28/quick-blog) – Blog platform with **Gemini AI**, **ImageKit**, and Admin Dashboard
+- 📌 More projects coming soon — stay tuned!
 
 ---
 
@@ -45,8 +64,8 @@
 
 ## 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rachit-rajput-727004228/)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&logo=leetcode)](https://leetcode.com/yourprofile/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rachit-rajput-727004228/)  
+[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&logo=leetcode)](https://leetcode.com/yourprofile/)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=google-chrome)](https://your-portfolio-link.com)
 
 ---
@@ -58,4 +77,3 @@
 <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=Rachgit28.Rachgit28" alt="Visitor Badge" />
 </p>
-

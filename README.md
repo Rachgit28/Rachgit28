@@ -1,12 +1,20 @@
-# 👋 Hi, I'm Rachit Rajput
-
-🎓 Final-year B.Tech student | 💻 Aspiring Software Engineer  
-🚀 Building full-stack web apps with MERN & Next.js  
-
+<!-- TITLE -->
+<h1 align="center">Hi there, I'm Rachit Rajput 👋</h1>
+<h3 align="center">🚀 Turning ideas into reality through code | Full-Stack Developer | Tech Explorer</h3>
 
 ---
 
-## 🧰 Tech Stack
+## 🧑‍💻 About Me
+
+🎓 I'm a 3rd-year B.Tech student passionate about solving real-world problems with technology.  
+💻 I build modern full-stack web applications using **MERN Stack** and **Next.js**.  
+🧠 Currently diving deeper into **TypeScript**, **SaaS Architecture**, and **Cloud Services**.  
+🎯 On a mission to become a top-tier Software Engineer.
+
+---
+
+## 🛠️ Tech Stack
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
@@ -18,22 +26,36 @@
 
 ---
 
-## 📈 GitHub Stats
+## 🚀 My Projects
+
+- 🔗 [**SaaS LMS App**](https://github.com/Rachgit28/saas-app) – Learning Management System with **Next.js**, **Clerk Auth**, **Stripe Billing**
+- 📝 **Blog Web App (MERN + Gemini AI)** – Dynamic content generation & image optimization (coming soon)
+- 📌 **More projects** on the way — stay tuned!
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rachgit28&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rachgit28&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rachgit28&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rachgit28&theme=radical" width="47%" />
 </p>
 
 ---
 
-## 🧠 My Projects
-- 🔗 [SaaS LMS App](https://github.com/Rachgit28/saas-app) – Next.js, TypeScript, Clerk Auth, Stripe
-- 📝 Blog Platform (MERN + Gemini AI) – Coming soon to GitHub!
-- 💼 Resume Projects – Check pinned repos for more
+## 🌐 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rachit-rajput-727004228/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&logo=leetcode)](https://leetcode.com/yourprofile/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=google-chrome)](https://your-portfolio-link.com)
 
 ---
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rachit-rajput-727004228/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=google-chrome)](https://your-portfolio-link.com)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&logo=leetcode)](https://leetcode.com/yourprofile/)
+<p align="center">
+  <i>"Striving for clean code, scalable apps, and lifelong learning."</i>
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Rachgit28.Rachgit28" alt="Visitor Badge" />
+</p>
+

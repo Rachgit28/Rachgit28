@@ -11,11 +11,11 @@
 
 **🚀 Languages & Frameworks**
 
-![Skills](https://skillicons.dev/icons?i=python,java,js,ts,nextjs,react,nodejs,express,flask)
+![Skills](https://skillicons.dev/icons?i=python,java,js,ts,nextjs,react,nodejs,express)
 
 **🤖 AI/ML & Computer Vision**
 
-![Skills](https://skillicons.dev/icons?i=opencv,sklearn,py)
+![Skills](https://skillicons.dev/icons?i=sklearn,py)
 
 **🛢️ Databases & Cloud**
 
@@ -23,7 +23,7 @@
 
 **🎨 Styling & UI**
 
-![Skills](https://skillicons.dev/icons?i=html,css,tailwind)
+![Skills](https://skillicons.dev/icons?i=html,css)
 
 **🧰 Dev Tools**
 
@@ -31,7 +31,7 @@
 
 ### 🚀 My Projects
 
-* 🎯 **[SnapClass](https://github.com/Rachgit28/SnapClass)** – AI-powered attendance management system with **Face Recognition**, **Voice Biometrics**, and **QR-based enrollment**; built with Python, Streamlit, Flask, and Supabase, featuring role-based dashboards for teachers and students | [🌐 Live Demo](https://snapclass-ai-att.streamlit.app/) · [📄 Landing Page](https://snapclass-landing-page-murex.vercel.app/)
+* 🎯 **[SnapClass](https://github.com/Rachgit28/SnapClass)** – AI-powered attendance management system with **Face Recognition**, **Voice Biometrics**, and **QR-based enrollment**; built with Python, Streamlit, Flask, and Supabase, featuring role-based dashboards for teachers and students |  [📄 Landing Page](https://snapclass-landing-page-murex.vercel.app/)
 * 🔗 **[SaaS LMS App](https://github.com/Rachgit28/saas-app)** – Learning Management System using Next.js, Clerk Auth, Stripe Billing
 * 📝 **[Quick Blog](https://github.com/Rachgit28/quick-blog)** – Blog platform with Gemini AI, ImageKit, and Admin Dashboard
 * 📌 More projects coming soon — stay tuned!

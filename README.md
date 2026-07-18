@@ -1,11 +1,10 @@
 ### Hi there, I'm Rachit Rajput 👋
-🚀 Turning ideas into reality through code | Full-Stack Developer
+🚀 Turning ideas into reality through code
 
 ### 🧑‍💻 About Me
 - 🎓 CS graduate passionate about solving real-world problems with technology
 - 🤖 Currently building AI-powered full-stack applications combining computer vision, voice biometrics, and modern web stacks
-- 💻 Experienced in **MERN Stack**, **Next.js**, and **Python/Streamlit** based systems
-- 🎯 On a mission to become a top-tier Software Engineer
+- 💻 Hands on Experience in **MERN Stack**, **Next.js**, and **Python/Streamlit** based systems
 
 ### 🛠️ Tech Stack
 

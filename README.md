@@ -1,75 +1,48 @@
-<!-- TITLE -->
-<h1 align="center">Hi there, I'm Rachit Rajput 👋</h1>
-<h3 align="center">🚀 Turning ideas into reality through code | Full-Stack Developer</h3>
+### Hi there, I'm Rachit Rajput 👋
+🚀 Turning ideas into reality through code | Full-Stack Developer
 
----
+### 🧑‍💻 About Me
+- 🎓 CS graduate passionate about solving real-world problems with technology
+- 🤖 Currently building AI-powered full-stack applications combining computer vision, voice biometrics, and modern web stacks
+- 💻 Experienced in **MERN Stack**, **Next.js**, and **Python/Streamlit** based systems
+- 🎯 On a mission to become a top-tier Software Engineer
 
-## 🧑‍💻 About Me
+### 🛠️ Tech Stack
 
-🎓 I'm a final-year B.Tech student passionate about solving real-world problems with technology.  
-💻 I am currently working on building modern full-stack web applications using **MERN Stack** and **Next.js**.  
-🎯 On a mission to become a top-tier Software Engineer.
+**🚀 Languages & Frameworks**
 
----
+![Skills](https://skillicons.dev/icons?i=python,java,js,ts,nextjs,react,nodejs,express,flask)
 
-## 🛠️ Tech Stack
+**🤖 AI/ML & Computer Vision**
 
-### 🚀 Languages & Frameworks  
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
-</p>
+![Skills](https://skillicons.dev/icons?i=opencv,sklearn,py)
 
-### 🛢️ Databases & Tools  
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-</p>
+**🛢️ Databases & Cloud**
 
-### 🎨 Styling & UI  
-<p>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shadcn/UI-black?style=flat&logo=vercel&logoColor=white" />
-</p>
+![Skills](https://skillicons.dev/icons?i=mongodb,mysql,supabase,vercel)
 
-### 🧰 Dev Tools  
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
-</p>
+**🎨 Styling & UI**
 
----
+![Skills](https://skillicons.dev/icons?i=html,css,tailwind)
 
-## 🚀 My Projects
+**🧰 Dev Tools**
 
-- 🔗 [**SaaS LMS App**](https://github.com/Rachgit28/saas-app) – Learning Management System using **Next.js**, **Clerk Auth**, **Stripe Billing**
-- 📝 [**Quick Blog**](https://github.com/Rachgit28/quick-blog) – Blog platform with **Gemini AI**, **ImageKit**, and Admin Dashboard
-- 📌 More projects coming soon — stay tuned!
+![Skills](https://skillicons.dev/icons?i=git,github,postman,vscode)
 
----
+### 🚀 My Projects
 
-## 📊 GitHub Stats
+* 🎯 **[SnapClass](https://github.com/Rachgit28/SnapClass)** – AI-powered attendance management system with **Face Recognition**, **Voice Biometrics**, and **QR-based enrollment**; built with Python, Streamlit, Flask, and Supabase, featuring role-based dashboards for teachers and students | [🌐 Live Demo](https://snapclass-ai-att.streamlit.app/) · [📄 Landing Page](https://snapclass-landing-page-murex.vercel.app/)
+* 🔗 **[SaaS LMS App](https://github.com/Rachgit28/saas-app)** – Learning Management System using Next.js, Clerk Auth, Stripe Billing
+* 📝 **[Quick Blog](https://github.com/Rachgit28/quick-blog)** – Blog platform with Gemini AI, ImageKit, and Admin Dashboard
+* 📌 More projects coming soon — stay tuned!
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rachgit28&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rachgit28&theme=radical" width="47%" />
-</p>
+### 📊 GitHub Stats
 
----
+![Rachit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rachgit28&show_icons=true&theme=default)
 
-## 🌐 Let's Connect
+### 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rachit-rajput/)  
-[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&logo=leetcode)](https://leetcode.com/u/28rachitrajput/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rachit-rajput)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:28rachitrajput@gmail.com)
 
----
-
-<p align="center">
-  <i>"Striving for clean code, scalable apps, and lifelong learning."</i>
-</p>
-
+> *"Striving for clean code, scalable apps, and lifelong learning."*

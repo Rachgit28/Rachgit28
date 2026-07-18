@@ -36,9 +36,6 @@
 * 📝 **[Quick Blog](https://github.com/Rachgit28/quick-blog)** – Blog platform with Gemini AI, ImageKit, and Admin Dashboard
 * 📌 More projects coming soon — stay tuned!
 
-### 📊 GitHub Stats
-
-![Rachit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rachgit28&show_icons=true&theme=default)
 
 ### 🌐 Let's Connect
 
